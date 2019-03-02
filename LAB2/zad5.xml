@@ -1,0 +1,84 @@
+<?xml-stylesheet type="text/css" href="css.css" ?>
+<studenci>
+	<grupa nr='1'>
+		<student plec='m'>
+			<imie>aa</imie>
+			<nazwisko>aa</nazwisko>
+			<nralbumu>10001</nralbumu>
+		</student>
+		<student plec='k'>
+			<imie>aa</imie>
+			<nazwisko>aa</nazwisko>
+			<nralbumu>10002</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>aa</imie>
+			<nazwisko>aa</nazwisko>
+			<nralbumu>10003</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>aa</imie>
+			<nazwisko>aa</nazwisko>
+			<nralbumu>10004</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>aa</imie>
+			<nazwisko>aa</nazwisko>
+			<nralbumu>10005</nralbumu>
+		</student>
+	</grupa>
+	<grupa nr='2'>
+		<student plec='k'>
+			<imie>bb</imie>
+			<nazwisko>bb</nazwisko>
+			<nralbumu>10006</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>bb</imie>
+			<nazwisko>bb</nazwisko>
+			<nralbumu>10007</nralbumu>
+		</student>
+		<student plec='k'>
+			<imie>bb</imie>
+			<nazwisko>bb</nazwisko>
+			<nralbumu>10008</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>bb</imie>
+			<nazwisko>bb</nazwisko>
+			<nralbumu>10009</nralbumu>
+		</student>
+		<student plec='k'>
+			<imie>bb</imie>
+			<nazwisko>bb</nazwisko>
+			<nralbumu>10010</nralbumu>
+		</student>
+	</grupa>
+	<grupa nr='3'>
+		<student plec='m'>
+			<imie>cc</imie>
+			<nazwisko>cc</nazwisko>
+			<nralbumu>10011</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>cc</imie>
+			<nazwisko>cc</nazwisko>
+			<nralbumu>10012</nralbumu>
+		</student>
+		<student plec='k'>
+			<imie>cc</imie>
+			<nazwisko>cc</nazwisko>
+			<nralbumu>10013</nralbumu>
+		</student>
+		<student plec='m'>
+			<imie>cc</imie>
+			<nazwisko>cc</nazwisko>
+			<nralbumu>10014</nralbumu>
+		</student>
+		<student plec='k'>
+			<imie>cc</imie>
+			<nazwisko>cc</nazwisko>
+			<nralbumu>10015</nralbumu>
+		</student>
+	</grupa>
+</studenci>
