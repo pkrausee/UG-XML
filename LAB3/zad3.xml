@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-2'?>
+<!DOCTYPE glowny SYSTEM "zad3.dtd">
+<glowny>
+
+	<podrzedny atrybut1="a"></podrzedny>
+	<podrzedny atrybut1="b" atrybut2="cos"></podrzedny>
+	<podrzedny atrybut1="c"></podrzedny>
+	<podrzedny atrybut1="d" atrybut3="w2"></podrzedny>
+	<podrzedny atrybut1="e"></podrzedny>
+
+</glowny>
