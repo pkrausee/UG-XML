@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<pracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zad1.xsd">
+    <imie>a</imie>
+    <nazwisko>b</nazwisko>
+    <wiek>18</wiek>
+    <data_urodzenia>2001-09-24</data_urodzenia>
+    <pensja>2000</pensja>
+</pracownik>
