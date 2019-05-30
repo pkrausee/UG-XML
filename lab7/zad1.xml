@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<szkola xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zad1.xsd">
+    <nauczyciele>
+        <osoba plec="kobieta">
+            <imie>Kajetan</imie>
+            <nazwisko>Paszkiewicz</nazwisko>
+        </osoba>
+    </nauczyciele>
+    <uczniowie>
+        <osoba plec="mezczyzna">
+            <imie>Kajetan</imie>
+            <nazwisko>Paszkiewicz</nazwisko>
+        </osoba>
+    </uczniowie>
+    <pozostali>
+        <osoba plec="kobieta">
+            <imie>Kajetan</imie>
+            <nazwisko>Paszkiewicz</nazwisko>
+        </osoba>
+    </pozostali>
+</szkola>

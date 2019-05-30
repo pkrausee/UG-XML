@@ -1,0 +1,11 @@
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="glowny">
+        <xs:complexType mixed="true">
+            <xs:choice maxOccurs="unbounded">
+                <xs:element name="element1" />
+                <xs:element name="element2" />
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
+

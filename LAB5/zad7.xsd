@@ -18,6 +18,7 @@
 
     <xsd:simpleType name='derivedlistOfIntegers'>
         <xsd:restriction base='listOfIntegers'>
+            <xsd:minLength value='5' />
             <xsd:maxLength value='5' />
         </xsd:restriction>
     </xsd:simpleType>

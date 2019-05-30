@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<grupy>
+	<grupa wartosc="min">
+		<liczba>12</liczba>
+		<liczba>24</liczba>
+		<liczba>31</liczba>
+	</grupa>
+	<grupa wartosc="max">
+		<liczba>45</liczba>
+		<liczba>31</liczba>
+		<liczba>35</liczba>
+		<liczba>29</liczba>
+		<liczba>20</liczba>
+	</grupa>
+	<grupa wartosc="min">
+		<liczba>21</liczba>
+		<liczba>52</liczba>
+		<liczba>53</liczba>
+		<liczba>17</liczba>
+	</grupa>
+	<grupa wartosc="max">
+		<liczba>10</liczba>
+		<liczba>22</liczba>
+		<liczba>8</liczba>
+	</grupa>
+	<grupa wartosc="max">
+		<liczba>9</liczba>
+		<liczba>23</liczba>
+		<liczba>12</liczba>
+		<liczba>1</liczba>
+	</grupa>
+	<grupa wartosc="max">
+		<liczba>3</liczba>
+		<liczba>1</liczba>
+		<liczba>7</liczba>
+		<liczba>3</liczba>
+		<liczba>10</liczba>
+	</grupa>
+	<grupa wartosc="min">
+		<liczba>20</liczba>
+		<liczba>11</liczba>
+		<liczba>5</liczba>
+	</grupa>
+</grupy>

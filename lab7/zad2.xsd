@@ -1,0 +1,49 @@
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="element">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="osoba" >
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:group ref="osoba" />
+                        </xs:sequence>
+                        <xs:attributeGroup ref="atrybuty" />
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="adres" >
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:group ref="adres" />
+                        </xs:sequence>
+                        <xs:attributeGroup ref="atrybuty" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+
+
+
+    </xs:element>
+    <xs:group name="adres">
+        <xs:sequence>
+            <xs:element name="miejsce" type="xs:string" />
+            <xs:element name="ulica" type="xs:string" />
+            <xs:element name="kodPocztowy" type="xs:string" />
+        </xs:sequence>
+    </xs:group>
+
+    <xs:group name="osoba">
+        <xs:sequence>
+            <xs:element name="imie" type="xs:string" />
+            <xs:element name="nazwisko" type="xs:string" />
+            <xs:element name="dataUrodzenia" type="xs:string" />
+        </xs:sequence>
+    </xs:group>
+
+    <xs:attributeGroup name="atrybuty">
+        <xs:attribute name="NIP" type="xs:string" />
+        <xs:attribute name="pesel" type="xs:string" />
+    </xs:attributeGroup>
+</xs:schema>
+

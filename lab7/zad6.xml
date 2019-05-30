@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zamowienie numer_zamowienia="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zad6.xsd">
+    <adres termin_dostarczenia="1234" kraj="Polska">
+        <miejsce>a</miejsce>
+        <ulica>a</ulica>
+        <kod_pocztowy>a</kod_pocztowy>
+    </adres>
+    <artykuly>
+        <artykul id="1">
+            <film>
+                <tytul>a</tytul>
+                <rezyser>a</rezyser>
+                <rok_wydania>a</rok_wydania>
+                <czas_trwania>a</czas_trwania>
+            </film>
+            <ilosc>2</ilosc>
+        </artykul>
+        <artykul id="2">
+            <ksiazka>
+                <tytul>a</tytul>
+                <autor>a</autor>
+                <rok_wydania>a</rok_wydania>
+                <nr_wydania>a</nr_wydania>
+            </ksiazka>
+            <ilosc>1</ilosc>
+        </artykul>
+        <artykul id="3">
+            <plyta>
+                <tytul>a</tytul>
+                <wykonawca>a</wykonawca>
+                <wydawca>a</wydawca>
+                <rok_wydania>a</rok_wydania>
+                <czas_trwania>a</czas_trwania>
+            </plyta>
+            <ilosc>1</ilosc>
+        </artykul>
+    </artykuly>
+</zamowienie>

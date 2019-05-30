@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cos:sklep xmlns:cos="https://cos.com">
+    <cos:plyta>
+        <cos:tytul>Sen o 7 szklankach</cos:tytul>
+        <cos:wykonawca>Coma</cos:wykonawca>
+		<cos:cena waluta="zł">35.90</cos:cena>
+    </cos:plyta>
+    <cos:plyta> 
+        <cos:tytul cos:tlumaczenie="Filmowa orkiestra">The Cinematic Orchestra</cos:tytul>
+        <cos:wykonawca>To Believe</cos:wykonawca> 
+		<cos:cena waluta='zł'>40.30</cos:cena>
+    </cos:plyta>
+</cos:sklep>

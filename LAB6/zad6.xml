@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<prz1:Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:prz1="http://prz_nazw1" xmlns:prz2="http://prz_nazw2" xsi:noNamespaceSchemaLocation="zad6.xsd">
+    <Miejsce>
+        <nazwa>UG</nazwa>
+        <opis>Uniwersytet</opis>
+    </Miejsce>
+    <Osoba>
+        <imie>Pawel</imie>
+        <nazwisko>Krause</nazwisko>
+    </Osoba>
+    <Adres>
+        <miejscowosc>Gdansk</miejscowosc>
+        <ulica>Wita</ulica>
+        <kod_pocztowy>1234</kod_pocztowy>
+    </Adres>
+</prz1:Dane>

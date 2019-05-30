@@ -10,7 +10,7 @@
         <artykul id="a">
             <film>
                 <tytul>Aquaman</tytul>
-                <rezyser>Jan Kowalski</rezyser>
+                <rezyser>Nie wiem</rezyser>
                 <rok_wydania>2018</rok_wydania>
                 <czas_trwania>spory</czas_trwania>
             </film>
@@ -25,7 +25,7 @@
         </artykul>
         <artykul id="c">
             <plyta>
-                <tytul>Dobra muzyka</tytul>
+                <tytul>Chodnikowa</tytul>
                 <wykonawca>Ja</wykonawca>
                 <wydawca>Pol-Bruk</wydawca>
                 <rok_wydania>2019</rok_wydania>
