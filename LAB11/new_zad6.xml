@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><grupy>
+	<grupa aktywny="nie">
+		<liczba>1</liczba>
+		<liczba>2</liczba>
+		<liczba>3</liczba>
+	</grupa>
+	<grupa>
+		<liczba>45</liczba>
+		<liczba>0</liczba>
+		<liczba>0</liczba>
+		<liczba>0</liczba>
+		<liczba>0</liczba>
+	<suma>45</suma><srednia>9.0</srednia></grupa>
+	<grupa aktywny="nie">
+		<liczba>2</liczba>
+		<liczba>5</liczba>
+		<liczba>3</liczba>
+		<liczba>7</liczba>
+	</grupa>
+	<grupa>
+		<liczba>10</liczba>
+		<liczba>22</liczba>
+		<liczba>8</liczba>
+	<suma>40</suma><srednia>13.333333</srednia></grupa>
+	<grupa>
+		<liczba>9</liczba>
+		<liczba>23</liczba>
+		<liczba>12</liczba>
+		<liczba>1</liczba>
+	<suma>45</suma><srednia>11.25</srednia></grupa>
+	<grupa>
+		<liczba>3</liczba>
+		<liczba>1</liczba>
+		<liczba>7</liczba>
+		<liczba>3</liczba>
+		<liczba>10</liczba>
+	<suma>24</suma><srednia>4.8</srednia></grupa>
+	<grupa aktywny="nie">
+		<liczba>0</liczba>
+		<liczba>1</liczba>
+		<liczba>5</liczba>
+	</grupa>
+</grupy>

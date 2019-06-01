@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE firma SYSTEM "zad5.dtd">
+<firma>
+    <nazwa>Dobra firma</nazwa>
+    <dzial>
+        <pracownik plec="m" numer_pesel="1234" opis="Najlepszy pracownik">
+            <imie>Pawel</imie>
+            <nazwisko>Krause</nazwisko>
+            <data_urodzenia>01.10.1997</data_urodzenia>
+        </pracownik>
+        <pracownik plec="k" numer_pesel="1111" opis="Najgorszy pracownik">
+            <imie>Kajetan</imie>
+            <nazwisko>Paszkiewicz</nazwisko>
+            <data_urodzenia>01.02.3456</data_urodzenia>
+        </pracownik>
+        <pracownik plec="m" numer_pesel="2222">
+            <imie>Jan</imie>
+            <nazwisko>Kowalski</nazwisko>
+            <data_urodzenia>01.01.1999</data_urodzenia>
+        </pracownik>
+        <pracownik plec="m" numer_pesel="3333" opis="Boxer">
+            <imie>Mike</imie>
+            <nazwisko>Tyson</nazwisko>
+            <data_urodzenia>30.06.1966</data_urodzenia>
+        </pracownik>
+    </dzial>
+</firma>

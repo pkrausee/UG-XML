@@ -1,0 +1,66 @@
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border: solid orange 8px;
+}
+
+#header {
+    text-align: center;
+}
+
+#rysunki {
+    border: solid black 2px;
+    padding: 20px;
+    margin: auto;
+}
+
+h3 {
+    float: left;
+    color: blue;
+}
+
+#p1 {
+    padding-left: 40px;
+}
+
+#p2 {
+    padding-left: 150px;
+}
+
+#p3 {
+    padding-left: 200px;
+}
+
+#kwadrat {
+    stroke: red;
+    stroke-width: 3px;
+    height: 100px;
+    width: 100px;
+    y: 10;
+    x: 10;
+}
+
+#prostokat {
+    stroke: red;
+    stroke-width: 3px;
+    height: 100px;
+    width: 200px;
+    y: 10;
+    x: 200;
+}
+
+.linia {
+    stroke: red;
+}
+
+.strzalki {
+    marker-end: url(#arrow);
+    marker-start: url(#arrow);
+    stroke: black;
+}
+
+.figura {
+    stroke: red;
+    stroke-width: 3px;
+}

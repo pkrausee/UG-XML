@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-2'?>
+<komputer>
+	<procesor taktowanie="10mhz">
+		<firma>intel</firma>
+		<model>ryzen 2</model>
+	</procesor>
+	<ram rozmiar="4gb" iloscKosci="2">
+		<firma>DobryRam</firma>
+		<model>Monster 8</model>
+	</ram>
+	<kartaGraficzna pamiec="duza" chlodzenie="tak">
+		<firma>Nvidia</firma>
+		<model>GCard 223</model>
+	</kartaGraficzna>
+	<obudowa>tak</obudowa>
+</komputer>

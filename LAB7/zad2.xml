@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zad2.xsd">
+    <osoba NIP="str1234" pesel="str1234">
+        <imie>str1234</imie>
+        <nazwisko>str1234</nazwisko>
+        <dataUrodzenia>str1234</dataUrodzenia>
+    </osoba>
+    <adres NIP="str1234" pesel="str1234">
+        <miejsce>str1234</miejsce>
+        <ulica>str1234</ulica>
+        <kodPocztowy>str1234</kodPocztowy>
+    </adres>
+</element>

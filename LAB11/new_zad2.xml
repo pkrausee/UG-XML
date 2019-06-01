@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><lista>
+	<osoba aktywny="tak">
+		<imie>Nadia</imie>
+		<nazwisko>Ebacka</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Ksawery</imie>
+		<nazwisko>Melon</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Borys</imie>
+		<nazwisko>Pokrzyk</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Balladyna</imie>
+		<nazwisko>Malina</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Dafroza</imie>
+		<nazwisko>Trawnik</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Abira</imie>
+		<nazwisko>Bogata</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Felin</imie>
+		<nazwisko>Dziurawiec</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Grzymisława</imie>
+		<nazwisko>Chmiel</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Benicjusz</imie>
+		<nazwisko>Naparczywy</nazwisko>
+	</osoba>
+	<osoba aktywny="tak">
+		<imie>Długomił</imie>
+		<nazwisko>Cytrynka</nazwisko>
+	</osoba>
+</lista>

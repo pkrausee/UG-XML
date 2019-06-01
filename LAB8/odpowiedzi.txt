@@ -1,0 +1,20 @@
+1.  /lista/osoba[@plec='k']
+2.  /lista/osoba[wiek/text()>=20 and wiek/text()<=40]
+3.  /lista/osoba[3]
+4.  /lista/osoba[adres/miejsce/text()='Gdynia']
+5.  /lista/osoba[not(opis)]
+6.  /lista/osoba[not(imie/text()='Abira') and not(imie/text()='Borys') ]
+7.  /lista/osoba[position() = last() - 2]/[self::imie or self::nazwisko]
+8.  /lista/osoba[position()=last()]/[self::imie or self::nazwisko]
+9.  /lista/osoba[not(position() mod 2 = 0)]
+10. sum(/lista/osoba[@plec="m"]/wiek/text())
+11. sum(/lista/osoba[adres/miejsce="Olsztyn" or adres/miejsce="Gdynia"]/@id)
+12. /lista/osoba[position()>=7] 
+13. /lista/osoba[wiek>=40]/@id
+14. /lista/osoba[contains(adres/kod-pocztowy,"8")]/@id
+15. /lista/osoba[nazwisko/text()="Bogata"]/preceding-sibling::osoba[1]/adres
+16. concat("Osoba ",/lista/osoba[adres[@kraj]]/imie," ",/lista/osoba[adres[@kraj]]/nazwisko," nie jest z Polski")
+17. count(/lista/osoba[starts-with(nazwisko/text(),"C")])
+18. ceiling(/lista/osoba[@id = "331"]/wiek/text() div /lista/osoba[@id="398"]/wiek/text())
+19. round(sum(/lista/osoba/wiek/text()) div count(/lista/osoba))
+20. string-length(/lista/osoba[@id = "754"]/imie/text()) + string-length(/lista/osoba[@id = "974"]/adres/ulica/text())
