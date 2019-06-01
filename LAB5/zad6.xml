@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
-<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zad5.xsd" plec="kobieta">
-	<imie>aaaa</imie>
-    <nazwisko>aaaaa</nazwisko>
-    <numer>555555</numer>
-</osoba>

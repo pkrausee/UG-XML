@@ -1,8 +1,0 @@
-
-tr:nth-child(even) {
-    background:blue;
-}
-
-tr:nth-child(odd) {
-    background:yellow;
-}

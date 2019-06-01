@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='ISO-8859-2'?>
-<!DOCTYPE glowny SYSTEM "zad2.dtd">
-<glowny>
-    <unikatowy1 idU1="a1">A</unikatowy1>
-    <unikatowy2 idU2="b2">B</unikatowy2>
-
-    <pobrany id="a1">C</pobrany>
-</glowny>
